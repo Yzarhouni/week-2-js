@@ -1,0 +1,23 @@
+{
+  "name": "week-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROCMondriaanTIN/week-3-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROCMondriaanTIN/week-3-js/issues"
+  },
+  "homepage": "https://github.com/ROCMondriaanTIN/week-3-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
